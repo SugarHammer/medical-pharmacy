@@ -22,7 +22,7 @@
 
     <div class="login-box">
       <el-card class="box-card">
-        <h2>药店/房后台管理系统</h2>
+        <h2>药店后台管理系统</h2>
         <el-form
           :model="loginUser"
           :rules="loginRules"
@@ -66,7 +66,7 @@
 .login {
   width: 100%;
   height: 100%;
-  background: #324157;
+  background: #8b8b8b;
   position: fixed;
 }
 

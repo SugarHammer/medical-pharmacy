@@ -1,11 +1,4 @@
-# 药房管理系统 药店管理系统  
-合作联系QQ: 791685330 
-邮箱 ：huaism@126.com
 
-访问地址：http://drug.softsshop.com/login 账号 admin 密码 123456
-
-展示界面：
-https://github.com/huaism/drug-vue
 
 药店管理系统 mysql + springboot + mybatisplus
 
@@ -29,6 +22,3 @@ https://github.com/huaism/drug-vue
 
 6）数据统计分析（挂号统计、门诊统计）
 
-（假设你认为这个项目对你有帮助，请往我的支付宝捐赠 X元，^_^。谢谢！）
-
-![image](https://user-images.githubusercontent.com/19181634/160966290-7995a498-0ad9-4b6f-84d4-235f462225c9.png)
