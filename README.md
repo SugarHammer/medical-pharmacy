@@ -27,8 +27,6 @@ SpringBoot + mybatis-plus + Vue + Mysql
 #### 功能展示-2
 ![输入图片说明](photo/%E5%8A%9F%E8%83%BD%E5%B1%95%E7%A4%BA-2.gif)
 
-#### 代码数据库
-![输入图片说明](photo/%E4%BB%A3%E7%A0%81%E6%95%B0%E6%8D%AE%E5%BA%93.gif)
 
 ### 环境需求(可免费提供)
 - idea/eclipse、jdk-1.8、maven-3.8.6、mysql、node.js
